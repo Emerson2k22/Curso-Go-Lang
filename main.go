@@ -16,7 +16,8 @@ func main() {
 	fmt.Printf("Type: %T - Value: %v\n", "1", "1")
 
 // inteiro
-	fmt.Printf("Type: %T - Value: %v\n", 2, 2)
+	fmt.Printf("Type: %T - Value: %v\n", 3, 3)
+	
 
 // float (float64/float32) - decimal
     fmt.Printf("Type: %T - Value: %v\n", 1.233, 1.233)
