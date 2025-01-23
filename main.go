@@ -51,6 +51,10 @@ func main() {
 
 	// funções
 	fmt.Println(soma(42, 13))
+
+	// ou pode ser usado assim
+	// somaDosValores := soma(42, 13)
+	// fmt.Println(somaDosValores)
 }
 
 func soma (x int, y int) int {
