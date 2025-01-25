@@ -59,4 +59,19 @@ func main() {
 
 func soma (x int, y int) int {
 	return x + y
-}
+	}
+
+	//var array [2]string
+    //array[0] = "Hello"
+	//array[1] = "World"
+	//fmt.Println(array[0])
+	//fmt.Println(array[1])
+	//fmt.Println(array[0], array[1])
+	//fmt.Println(array)
+	
+	// Se contam começando do número 0
+	//numPrimos := [6]int{2, 3, 5, 7, 11, 13}
+	//fmt.Println(numPrimos)
+	//fmt.Println(numPrimos[0:4])
+	//fmt.Println(numPrimos[0:2])
+	//fmt.Println(numPrimos[0])
